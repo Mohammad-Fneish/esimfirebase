@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247620725342",
+    "project_id": "esimapp-4ac79",
+    "storage_bucket": "esimapp-4ac79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247620725342:android:45f6481f8c44e9c721e2cf",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qw-UrzUM4X4yzvDdimFb7dcwTFlJC44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
